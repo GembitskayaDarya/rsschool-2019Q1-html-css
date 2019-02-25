@@ -1,1 +1,3 @@
-# rsschool-2019Q1-codeacademy
+Darya Gembitskaya
+HTML CSS Basics: https://www.codecademy.com/users/
+daxagemb/achievements
