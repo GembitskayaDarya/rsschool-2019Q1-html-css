@@ -1,3 +1,2 @@
 Darya Gembitskaya
-HTML CSS Basics: https://www.codecademy.com/users/
-daxagemb/achievements
+HTML CSS Basics: https://www.codecademy.com/users/daxagemb/achievements
